@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Activity_Three_Gijan {
+public class Activity_Three_Auman {
   
   final static double c1MealPrice = 109.00;
   final static double c2MealPrice = 153.00;
